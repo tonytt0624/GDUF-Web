@@ -1,5 +1,5 @@
-# 广东金融学院校园网Web认证
-本教程仅适用于（广东金融学院）校园网的Web认证
+# GuangDong University of Finance 校园网Web认证
+本教程仅适用于（GuangDong University of Finance）校园网的Web认证
 
 本文章已采用CC 4.0 BY-NC-SA 协议授权
 
