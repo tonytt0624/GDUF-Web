@@ -10,3 +10,5 @@
 基于此内容制作内容也必须是CC 4.0 BY-NC-SA协议
 
 教程在Issues里，自行参考哈。。。
+
+Before continuing to read this article, I hope that you have made sure that the automatic translation feature in your own browser (chrome explorer) has been turned off, as this feature can lead to some misleading and biased tutorial content, thank you.
